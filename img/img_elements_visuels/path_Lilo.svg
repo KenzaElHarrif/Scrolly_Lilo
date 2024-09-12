@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="lilo-path-calque" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1982.63 485.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m.13,484.72s255.76-69.18,358-89c144.43-28,649.74,61.03,745-16,107.3-86.76,127.27-168.17,122-224-10-106-169.29-189.73-275-141-141,65-239,406,27,378s302-301,470-286,214,131,371,162,164-19,164-19"/>
+</svg>
